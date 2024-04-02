@@ -1,0 +1,134 @@
+{
+    "expectations_success": [
+        [
+            0,
+            "0.069*\"proyecto\" + 0.036*\"expectativas\" + 0.027*\"dentro\" + 0.027*\"carrera\" + 0.019*\"iba\" + 0.019*\"dise\u00f1o\" + 0.019*\"acad\u00e9mico\" + 0.019*\"profesional\" + 0.019*\"propuesta\" + 0.010*\"altas\""
+        ],
+        [
+            1,
+            "0.034*\"neutral\" + 0.006*\"confianza\" + 0.006*\"bajas\" + 0.006*\"aumento\" + 0.006*\"comienzo\" + 0.006*\"luego\" + 0.006*\"perfecto\" + 0.006*\"pueda\" + 0.006*\"terminar\" + 0.006*\"salga\""
+        ],
+        [
+            2,
+            "0.031*\"podr\u00eda\" + 0.031*\"proyecto\" + 0.017*\"pens\u00e9\" + 0.017*\"grande\" + 0.017*\"materia\" + 0.017*\"inici\u00f3\" + 0.017*\"meses\" + 0.017*\"real\" + 0.017*\"quedar\u00eda\" + 0.017*\"tan\""
+        ],
+        [
+            3,
+            "0.040*\"proyecto\" + 0.021*\"realizar\" + 0.021*\"ah\u00ed\" + 0.021*\"d\u00eda\" + 0.021*\"entrega\" + 0.011*\"principio\" + 0.011*\"volvi\u00f3\" + 0.011*\"confianza\" + 0.011*\"altas\" + 0.011*\"importante\""
+        ],
+        [
+            4,
+            "0.082*\"proyecto\" + 0.029*\"presentaba\" + 0.016*\"adem\u00e1s\" + 0.016*\"parte\" + 0.016*\"llevar\" + 0.016*\"cabo\" + 0.016*\"poder\" + 0.016*\"cosas\" + 0.016*\"cambiaron\" + 0.016*\"permiti\u00f3\""
+        ]
+    ],
+    "expectations_abilities": [
+        [
+            0,
+            "0.045*\"proyecto\" + 0.023*\"confianza\" + 0.016*\"grupo\" + 0.016*\"sent\u00ed\" + 0.016*\"aprendido\" + 0.016*\"habilidades\" + 0.009*\"mayor\" + 0.009*\"personas\" + 0.009*\"lugar\" + 0.009*\"pas\u00e9\""
+        ],
+        [
+            1,
+            "0.024*\"conocimiento\" + 0.024*\"aprender\" + 0.024*\"real\" + 0.024*\"ser\" + 0.024*\"sentia\" + 0.024*\"paso\" + 0.024*\"aplicar\" + 0.024*\"podria\" + 0.024*\"gran\" + 0.024*\"neutral\""
+        ],
+        [
+            2,
+            "0.024*\"expectativas\" + 0.024*\"mejor\" + 0.024*\"manera\" + 0.024*\"proyecto\" + 0.013*\"habilidades\" + 0.013*\"dentro\" + 0.013*\"nivel\" + 0.013*\"exitoso\" + 0.013*\"considero\" + 0.013*\"eligieron\""
+        ],
+        [
+            3,
+            "0.029*\"proyecto\" + 0.029*\"pude\" + 0.020*\"auspicios\" + 0.020*\"ayudando\" + 0.020*\"embargo\" + 0.020*\"m\u00f3nica\" + 0.020*\"trabajos\" + 0.020*\"ello\" + 0.020*\"empresariales\" + 0.020*\"sent\u00eda\""
+        ],
+        [
+            4,
+            "0.032*\"construcci\u00f3n\" + 0.032*\"respecto\" + 0.018*\"conocimiento\" + 0.018*\"habilidades\" + 0.018*\"m\u00e9todo\" + 0.018*\"materiales\" + 0.018*\"profesional\" + 0.018*\"necesitaba\" + 0.018*\"nutria\" + 0.018*\"integraban\""
+        ]
+    ],
+    "main_challenges": [
+        [
+            0,
+            "0.083*\"log\u00edstica\" + 0.083*\"organizaci\u00f3n\" + 0.083*\"comunicaci\u00f3n\" + 0.083*\"t\u00e9cnicos\" + 0.083*\"profesi\u00f3n\" + 0.083*\"intr\u00ednsecos\" + 0.083*\"equipo\" + 0.083*\"trabajo\" + 0.083*\"emocional\" + 0.083*\"estr\u00e9s\""
+        ],
+        [
+            1,
+            "0.083*\"log\u00edstica\" + 0.083*\"organizaci\u00f3n\" + 0.083*\"comunicaci\u00f3n\" + 0.083*\"t\u00e9cnicos\" + 0.083*\"profesi\u00f3n\" + 0.083*\"intr\u00ednsecos\" + 0.083*\"equipo\" + 0.083*\"trabajo\" + 0.083*\"emocional\" + 0.083*\"estr\u00e9s\""
+        ],
+        [
+            2,
+            "0.174*\"inteligencia\" + 0.174*\"manejo\" + 0.174*\"emocional\" + 0.174*\"estr\u00e9s\" + 0.065*\"intr\u00ednsecos\" + 0.065*\"profesi\u00f3n\" + 0.065*\"t\u00e9cnicos\" + 0.065*\"comunicaci\u00f3n\" + 0.011*\"organizaci\u00f3n\" + 0.011*\"log\u00edstica\""
+        ],
+        [
+            3,
+            "0.156*\"comunicaci\u00f3n\" + 0.126*\"t\u00e9cnicos\" + 0.126*\"profesi\u00f3n\" + 0.126*\"intr\u00ednsecos\" + 0.126*\"log\u00edstica\" + 0.126*\"organizaci\u00f3n\" + 0.096*\"equipo\" + 0.096*\"trabajo\" + 0.006*\"emocional\" + 0.006*\"estr\u00e9s\""
+        ],
+        [
+            4,
+            "0.157*\"organizaci\u00f3n\" + 0.157*\"log\u00edstica\" + 0.108*\"equipo\" + 0.108*\"trabajo\" + 0.108*\"manejo\" + 0.108*\"emocional\" + 0.108*\"estr\u00e9s\" + 0.108*\"inteligencia\" + 0.010*\"comunicaci\u00f3n\" + 0.010*\"profesi\u00f3n\""
+        ]
+    ],
+    "m_c_description": [
+        [
+            0,
+            "0.032*\"personas\" + 0.032*\"desaf\u00edo\" + 0.032*\"material\" + 0.017*\"principal\" + 0.017*\"comunicarme\" + 0.017*\"superar\" + 0.017*\"escultura\" + 0.017*\"docentes\" + 0.017*\"ensamblen\" + 0.017*\"desarrollar\""
+        ],
+        [
+            1,
+            "0.028*\"estr\u00e9s\" + 0.028*\"auspicios\" + 0.015*\"manejo\" + 0.015*\"tiempos\" + 0.015*\"proyecto\" + 0.015*\"saber\" + 0.015*\"materiales\" + 0.015*\"mayores\" + 0.015*\"persuadirlas\" + 0.015*\"pertenecer\""
+        ],
+        [
+            2,
+            "0.032*\"router\" + 0.032*\"cnc\" + 0.032*\"estr\u00e9s\" + 0.017*\"poder\" + 0.017*\"manera\" + 0.017*\"encargado\" + 0.017*\"pude\" + 0.017*\"planificarme\" + 0.017*\"tan\" + 0.017*\"present\u00f3\""
+        ],
+        [
+            3,
+            "0.042*\"equipos\" + 0.042*\"coordinaci\u00f3n\" + 0.042*\"comunicaci\u00f3n\" + 0.023*\"manera\" + 0.023*\"principal\" + 0.023*\"mejor\" + 0.023*\"proyecto\" + 0.023*\"gracias\" + 0.023*\"dentro\" + 0.023*\"profesionales\""
+        ],
+        [
+            4,
+            "0.033*\"cada\" + 0.033*\"dise\u00f1o\" + 0.033*\"aplica\" + 0.018*\"manera\" + 0.018*\"mejor\" + 0.018*\"embargo\" + 0.018*\"proyecto\" + 0.018*\"grupo\" + 0.018*\"forma\" + 0.018*\"distinto\""
+        ]
+    ],
+    "p_abilities_develop": [
+        [
+            0,
+            "0.153*\"t\u00e9cnicos\" + 0.153*\"profesi\u00f3n\" + 0.153*\"intr\u00ednsecos\" + 0.128*\"organizaci\u00f3n\" + 0.128*\"log\u00edstica\" + 0.103*\"equipo\" + 0.103*\"trabajo\" + 0.054*\"comunicaci\u00f3n\" + 0.005*\"emocional\" + 0.005*\"inteligencia\""
+        ],
+        [
+            1,
+            "0.104*\"equipo\" + 0.104*\"trabajo\" + 0.103*\"profesi\u00f3n\" + 0.103*\"t\u00e9cnicos\" + 0.103*\"intr\u00ednsecos\" + 0.103*\"emocional\" + 0.103*\"estr\u00e9s\" + 0.103*\"inteligencia\" + 0.103*\"manejo\" + 0.017*\"comunicaci\u00f3n\""
+        ],
+        [
+            2,
+            "0.130*\"organizaci\u00f3n\" + 0.130*\"log\u00edstica\" + 0.130*\"equipo\" + 0.130*\"trabajo\" + 0.089*\"comunicaci\u00f3n\" + 0.089*\"emocional\" + 0.089*\"manejo\" + 0.089*\"estr\u00e9s\" + 0.089*\"inteligencia\" + 0.008*\"t\u00e9cnicos\""
+        ],
+        [
+            3,
+            "0.333*\"ninguno\" + 0.056*\"comunicaci\u00f3n\" + 0.056*\"equipo\" + 0.056*\"trabajo\" + 0.056*\"organizaci\u00f3n\" + 0.056*\"log\u00edstica\" + 0.056*\"profesi\u00f3n\" + 0.056*\"t\u00e9cnicos\" + 0.056*\"intr\u00ednsecos\" + 0.056*\"estr\u00e9s\""
+        ],
+        [
+            4,
+            "0.077*\"comunicaci\u00f3n\" + 0.077*\"equipo\" + 0.077*\"trabajo\" + 0.077*\"organizaci\u00f3n\" + 0.077*\"log\u00edstica\" + 0.077*\"t\u00e9cnicos\" + 0.077*\"profesi\u00f3n\" + 0.077*\"intr\u00ednsecos\" + 0.077*\"emocional\" + 0.077*\"inteligencia\""
+        ]
+    ],
+    "p_a_d_description": [
+        [
+            0,
+            "0.099*\"aplica\" + 0.052*\"equipo\" + 0.052*\"trabajo\" + 0.052*\"desarrollar\" + 0.028*\"manera\" + 0.028*\"miembros\" + 0.028*\"siento\" + 0.028*\"significativa\" + 0.028*\"conjunto\" + 0.028*\"dem\u00e1s\""
+        ],
+        [
+            1,
+            "0.069*\"mejor\" + 0.069*\"comunicarme\" + 0.069*\"manera\" + 0.011*\"aplica\" + 0.011*\"comunicaci\u00f3n\" + 0.011*\"manualidades\" + 0.011*\"profesional\" + 0.011*\"mejorar\" + 0.011*\"habilidad\" + 0.011*\"encargado\""
+        ],
+        [
+            2,
+            "0.056*\"dise\u00f1o\" + 0.030*\"investigaci\u00f3n\" + 0.030*\"herramienta\" + 0.030*\"prefabricados\" + 0.030*\"modelar\" + 0.030*\"materiales\" + 0.030*\"uniones\" + 0.030*\"idea\" + 0.030*\"desarrollarlo\" + 0.030*\"escoger\""
+        ],
+        [
+            3,
+            "0.108*\"comunicaci\u00f3n\" + 0.059*\"manualidades\" + 0.059*\"habilidad\" + 0.059*\"mejorar\" + 0.059*\"profesional\" + 0.010*\"aplica\" + 0.010*\"manera\" + 0.010*\"encargado\" + 0.010*\"uso\" + 0.010*\"poder\""
+        ],
+        [
+            4,
+            "0.060*\"deb\u00eda\" + 0.033*\"comunicaci\u00f3n\" + 0.033*\"entender\" + 0.033*\"parte\" + 0.033*\"raz\u00f3n\" + 0.033*\"ocaciones\" + 0.033*\"haciendo\" + 0.033*\"redactar\" + 0.033*\"podr\u00edan\" + 0.033*\"varias\""
+        ]
+    ]
+}

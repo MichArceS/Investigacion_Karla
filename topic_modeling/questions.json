@@ -1,0 +1,16 @@
+{
+    "hours_subject": "Escoja la opción que mejor describe, en promedio, cuántas horas semanales le dedicó al proyecto en el transcurso de la materia Taller de Diseño 3",
+    "p_motivation_subject": "Escoja la opción que mejor describe su principal motivación para trabajar en el proyecto en el transcurso de la materia Taller de Diseño 3",
+    "hours_extra": "Escoja la opción que mejor describe, en promedio, cuántas horas semanales le dedicó al proyecto LUEGO DE LA APROBACIÓN del Municipio (Ene-Jun 2023)",
+    "p_motivation_extra": "Escoja la opción que mejor describe su principal motivación para trabajar en el proyecto LUEGO DE LA APROBACIÓN del Municipio (Ene-Jun 2023):",
+    "role": "Escoja la opción que mejor describe su rol dentro del equipo",
+    "p_u_coordination": "¿Cuántas personas trabajaron bajo su coordinación?",
+    "p_u_c_profile": "Seleccione TODAS las opciones que mejor describen el perfil de las personas que estuvieron bajo su coordinación",
+    "p_importance": "Selecciona la opción que mejor describe la importancia de su participación en el proyecto",
+    "expectations_success": "¿Cuáles fueron sus expectativas y confianza en cuanto a la factibilidad de que EL PROYECTO se implemente con éxito, y cómo fueron cambiando a lo largo de su avance?",
+    "expectations_abilities": "¿Cuáles fueron sus expectativas y confianza en cuanto a SUS HABILIDADES PERSONALES para lograr que el proyecto se implemente con éxito, y cómo fueron cambiando a lo largo de su avance?",
+    "main_challenges": "¿A qué categoría(s) pertenecen los principales desafíos que tuvo? (Seleccione hasta 3 opciones)",
+    "m_c_description": "Describa brevemente el principal desafío que tuvo dentro del proyecto y cómo lo superó. Si no considera haber tenido algún desafío significativo, responda “No aplica”.",
+    "p_abilities_develop": "¿A qué categoría(s) pertenecen las principales habilidades que desarrolló? (Seleccione hasta 3 opciones)",
+    "p_a_d_description": "Describa brevemente la habilidad más importante que desarrolló y cuáles fueron los principales factores que le ayudaron a desarrollarla."
+}
